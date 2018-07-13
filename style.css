@@ -1,0 +1,15 @@
+/*
+Theme name:BootStrap child
+Template: wp-bootstrap-4
+Author:HZ
+*/
+
+
+
+
+section
+{
+	margin-left:50px;
+}
+@import url('../wp-bootstrap-4/style.css');
+
